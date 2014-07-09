@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>شرائح كلاسيكية</item>
+        <item>شرائح كلاسيكية بدون ارتداد</item>
+        <item>تلاشي</item>
+        <item>إسقاط</item>
+        <item>صفحة</item>
+        <item>Cascade</item>
+        <item>تدوير</item>
+        <item>مكعب</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>افتراضي</item>
+        <item>وسط</item>
+        <item>يسار</item>
+        <item>يمين</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>افتراضي</item>
+        <item>كلاسيكي</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>صافي</item>
+        <item>غائم</item>
+        <item>ضبابي</item>
+        <item>ضباب</item>
+        <item>عاصفة ماطرة شديدة</item>
+        <item>عاصفة ماطرة</item>
+        <item>امطار كثيفة جداً</item>
+        <item>عاصفة رعدية</item>
+        <item>زخات مطر</item>
+        <item>امطار كثيفة</item>
+        <item>امطار</item>
+        <item>امطار خفيفة</item>
+        <item>مطر ثلجي</item>
+        <item>عاصفة ثلجية</item>
+        <item>تساقط ثلجي</item>
+        <item>ثلوج كثيفة</item>
+        <item>عاصفة ثلجية</item>
+        <item>عاصفة ثلجية خفيفة</item>
+        <item>عاصفة رملية</item>
+        <item>عاصفة رملية</item>
+        <item>عاصفة رملية خفيفة</item>
+        <item>عاصفة رملية</item>
+        <item>بَرَد</item>
+        <item>غبار</item>
+        <item>ضبابي</item>
+    </string-array>
+</resources>

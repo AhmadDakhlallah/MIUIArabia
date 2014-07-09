@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_messages">
+        <item quantity="other">نقل الرسائل</item>
+        <item quantity="one">نقل رسالة</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$d غير مقروء (%2$s)</item>
+        <item quantity="one">%1$d غير مقروء (%2$s)</item>
+        <item quantity="few">%1$d غير مقروء (%2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">in %d حساب</item>
+        <item quantity="few">in %d حساب</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%1$d حساب</item>
+        <item quantity="one">%1$d حساب</item>
+    </plurals>
+    <plurals name="picker_combined_view_account_count">
+        <item quantity="other">%d حساب</item>
+        <item quantity="one">%d حساب</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d محدد</item>
+        <item quantity="one">%d محدد</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">مرفق %1$d</item>
+        <item quantity="one">مرفق %1$d</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">حذف هذه الرسائل؟</item>
+        <item quantity="one">حذف هذه الرسالة؟</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">تم حذف الرسائل</item>
+        <item quantity="one">تم حذف الرسالة</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">تم نقل %1$d رسالة الى %2$s</item>
+        <item quantity="one">تم نقل %1$d رسالة الى %2$s</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$d نتيجة من %2$s</item>
+        <item quantity="one">%1$d نتيجة من %2$s</item>
+    </plurals>
+</resources>

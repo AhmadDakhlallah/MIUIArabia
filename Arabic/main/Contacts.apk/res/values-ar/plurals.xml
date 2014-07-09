@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d جهة اتصال مع رقم هاتف</item>
+        <item quantity="one">جهة اتصال  واحدة مع رقم هاتف</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d جهة اتصال</item>
+        <item quantity="one">جهة اتصال</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">عثر على %d</item>
+        <item quantity="one">عثر على 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">عثر على %d</item>
+        <item quantity="one">عثر على 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">مدمجة من %0$d مصدر</item>
+        <item quantity="one">غير مدمجة</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d مجموعة</item>
+        <item quantity="one">مجموعة</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d شخص من %2$s</item>
+        <item quantity="one">%1$d شخص من %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d شخص</item>
+        <item quantity="one">%1$d شخص</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d رقم</item>
+        <item quantity="one">%1$d رقم</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d بريد صوتي</item>
+        <item quantity="one">بريد صوتي</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d محدد</item>
+        <item quantity="one">%1$d محدد</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d مفضل</item>
+        <item quantity="one">%1$d مفضل</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d جهة اتصال جديدة</item>
+        <item quantity="one">جهة اتصال جديدة</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d جهة اتصال</item>
+        <item quantity="one">%1$d جهة اتصال</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d رقم</item>
+        <item quantity="one">%1$d رقم</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d بريد الكتروني</item>
+        <item quantity="one">1 بريد الكتروني</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d مفضل</item>
+        <item quantity="one">%1$d مفضل</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d جهة اتصال جديدة</item>
+        <item quantity="one">%1$d جهة اتصال جديدة</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  جهة اتصال مضافة"</item>
+        <item quantity="one">%1$d  جهة اتصال مضافة</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d شخص</item>
+        <item quantity="one">شخص</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d جهة اتصال مستوردة</item>
+        <item quantity="one">%1$d جهة اتصال مستوردة</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d محدد"</item>
+        <item quantity="zero">%1$d محدد</item>
+        <item quantity="one">%1$d محدد</item>
+    </plurals>
+</resources>

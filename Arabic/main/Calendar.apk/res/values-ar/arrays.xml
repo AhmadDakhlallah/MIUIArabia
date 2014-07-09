@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>تنبيه</item>
+        <item>بريد المكتروني</item>
+        <item>SMS</item>
+        <item>منبة</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>بدون</item>
+        <item>0 دقيقه</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقه</item>
+        <item>30 دقيقه</item>
+        <item>ساعة</item>
+        <item>يوم</item>
+        <item>يومين</item>
+        <item>أسبوع</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>بدون</item>
+        <item>0 دقيقه</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقه</item>
+        <item>30 دقيقه</item>
+        <item>ساعة</item>
+        <item>يوم</item>
+        <item>يومين</item>
+        <item>أسبوع</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>المحلي الافتراضي</item>
+        <item>السبت</item>
+        <item>الأحد</item>
+        <item>الإثنين</item>
+    </string-array>
+    <string-array name="availability">
+        <item>متواجد</item>
+        <item>مؤقت</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>الإفتراضي</item>
+        <item>خاص</item>
+        <item>عام</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>الأول</item>
+        <item>الثاني</item>
+        <item>الثالث</item>
+        <item>الرابع</item>
+        <item>الأخير</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>بدون رد</item>
+        <item>نعم</item>
+        <item>ربما</item>
+        <item>لا</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>هذا الحدث فقط</item>
+        <item>هذا الحدث والأحداث المستقبلية</item>
+        <item>جميع الأحداث</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>هذا الحدث والأحداث المستقبلية</item>
+        <item>جميع الأحداث</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>هذا الحدث فقط</item>
+        <item>جميع الأحداث في هذه السلسلة</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>يوم</item>
+        <item>أسبوع</item>
+        <item>شهر</item>
+        <item>أجندة</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>سأتأخر دقيقتين فقط.</item>
+        <item>سأكون هناك خلال 10 دقائق.</item>
+        <item>ابدأوا من دوني.</item>
+        <item>أعتذر، لن استطيع الحضور. سيتوجب علينا إعاده تحديد الموعد.</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>دوماً</item>
+        <item>فقط في الوضع الصامت</item>
+        <item>أبداً</item>
+    </string-array>
+</resources>

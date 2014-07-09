@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_mode_labels">
+        <item>Black &amp;amp; White</item>
+        <item>Color</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>All</item>
+        <item>Range</item>
+    </string-array>
+</resources>

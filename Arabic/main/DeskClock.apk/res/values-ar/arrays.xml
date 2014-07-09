@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>التنبيه خلال اقل من دقيقة</item>
+        <item>التنبيه خلال  %1$s</item>
+        <item>التنبيه خلال %2$s</item>
+        <item>التنبيه خلال %1$s و%2$s</item>
+        <item>التنبيه خلال %3$s</item>
+        <item>التنبيه خلال %1$s و%3$s</item>
+        <item>التنبيه خلال %2$s و%3$s</item>
+        <item>التنبيه خلال %1$s، %2$s، و %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>دقيقة</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>30 دقيقة</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>أبدًا</item>
+        <item>دقيقة</item>
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقيقة</item>
+        <item>20 دقيقة</item>
+        <item>25 دقيقة</item>
+        <item>30 دقيقة</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>لا شيئ</item>
+        <item>غفوة</item>
+        <item>ايقاف</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>التنبيه خلال اقل من دقيقة</item>
+        <item>التنبيه خلال %1$s</item>
+        <item>التنبيه خلال %2$s</item>
+        <item>التنبيه خلال %1$s و%2$s</item>
+        <item>التنبيه خلال %3$s</item>
+        <item>التنبيه خلال %1$s و%3$s</item>
+        <item>التنبيه خلال %2$s و%3$s</item>
+        <item>التنبيه خلال %1$s و%2$s و%3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>الامس</item>
+        <item>اليوم</item>
+        <item>غدا</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>مره واحدة</item>
+        <item>يوميا</item>
+        <item>ايام العمل</item>
+        <item>الإثنين الى الجمعة</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>مره واحدة</item>
+        <item>يوميا</item>
+        <item>الإثنين الى الجمعة</item>
+        <item>مخصص</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="advanced">الحاسبة المتقدمة</string>
+  <string name="app_name">الحاسبة</string>
+  <string name="basic">الحاسبة البسيطة</string>
+  <string name="clear">C</string>
+  <string name="clearDesc">محو</string>
+  <string name="clear_history">محو السجل</string>
+  <string name="cos_mathematical_value">cos</string>
+  <string name="del">حذف</string>
+  <string name="delDesc">حذف</string>
+  <string name="error">خطأ</string>
+  <string name="text_copied_toast">تم النسخ</string>
+</resources>

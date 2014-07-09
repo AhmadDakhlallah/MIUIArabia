@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_label">تخزين جهات الاتصال</string>
+  <string name="call_log_provider_label">سجل المكالمات</string>
+  <string name="create_contact">جهة اتصال جديدة</string>
+  <string name="debug_dump_database_message">انت على وشك: 1)عمل نسخة من قاعدة بيانات جهات الاتصال الخاصة بك بالاضافة الى سجل المكالمات وكل ما يتعلق بجهات الاتصال. 2) ارسال القاعدة بواسطة البريد الالكتروني. تذكر ان تقوم بحذف النسخة في اقرب وقت ممكن من ذاكرة الهاتف بعد نسخها او ارسالها.</string>
+  <string name="debug_dump_delete_button">الحذف الان</string>
+  <string name="debug_dump_email_body">قمت بارفاق قاعدة بيانات جهات اتصالي. تعامل معها بحذر.</string>
+  <string name="debug_dump_email_sender_picker">اختر تطبيق لارسال الملف</string>
+  <string name="debug_dump_email_subject">تم ارفاق قاعدة بيانات جهات الاتصال</string>
+  <string name="debug_dump_start_button">بدء</string>
+  <string name="debug_dump_title">نسخ قاعدة بيانات جهات الاتصال</string>
+  <string name="default_directory">جهات الاتصال</string>
+  <string name="edit_contact">إضافة إلى جهة اتصال</string>
+  <string name="local_invisible_directory">غير ذلك</string>
+  <string name="pound_search_tip">إدخال الرقم بعد \"#\" لبحث جهات الاتصال</string>
+  <string name="provider_label">جهات الاتصال</string>
+  <string name="read_write_all_voicemail_description">للسماح للتطبيق بتخزين واسترداد جميع رسائل البريد الصوتي التي يمكن الوصول إليها عبر هذا الجهاز.</string>
+  <string name="read_write_all_voicemail_label">الوصول لجميع البريد الصوتي</string>
+  <string name="send_sms">ارسل</string>
+  <string name="sharedUserLabel">تطبيقات نواه اندرويد</string>
+  <string name="third_party_delete_contact_info">يقوم \"%s\" بحذف جهات اتصالك. يرجى استخدام جهات الاتصال على هاتفك لمزايا امنية محسنة لجهات الاتصال.</string>
+  <string name="upgrade_msg">تحديث قاعدة بيانات جهات الاتصال</string>
+  <string name="upgrade_out_of_memory_notification_text">اختر لاتمام التحديث</string>
+  <string name="upgrade_out_of_memory_notification_ticker">تحديث جهات الاتصال يحتاج الى المزيد من المساحة</string>
+  <string name="upgrade_out_of_memory_notification_title">تحديث تخزين جهات الاتصال</string>
+  <string name="voicemail_from_column">"بريد صوتي من "</string>
+</resources>

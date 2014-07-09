@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>صفحة في الجهة الواحدة</item>
+        <item>صفحتين في الجهة الواحدة</item>
+        <item>اربع صفحات في الجهة الواحدة</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>عمودي</item>
+        <item>افقي</item>
+        <item>افقي معكوس</item>
+        <item>عمودي معكوس</item>
+    </string-array>
+    <string-array name="sides">
+        <item>جهة واحده</item>
+        <item>جهتين و حافة طويلة</item>
+        <item>جهتين و حافة قصيرة</item>
+    </string-array>
+</resources>

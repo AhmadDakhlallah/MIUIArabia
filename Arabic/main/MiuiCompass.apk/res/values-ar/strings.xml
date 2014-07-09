@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="altitude_title">الإرتفاع</string>
+  <string name="altitude_unit">م</string>
+  <string name="app_label">البوصلة</string>
+  <string name="calibrate_failed_no_location">فشلت المعايرة: تعذر الحصول على الارتفاع و خط الطول</string>
+  <string name="calibrate_failed_timeout">فشلت المعايرة: انتهى وقت الاتصال بالخادم</string>
+  <string name="calibrate_success">إكتملت المعايرة</string>
+  <string name="cannot_get_location">موقع مجهول</string>
+  <string name="dialog_calibrat_altitude">معايرة الارتفاع عبر الانترنت</string>
+  <string name="dialog_title_no_network">يرجى تفعيل اتصال Wi-Fi</string>
+  <string name="getting_location">في انتظار الموقع...</string>
+  <string name="guide_toast">"There may be magnetic field interference, please calibrate the compass using the following gesture."</string>
+  <string name="latitude">خط الطول</string>
+  <string name="longitude">خط العرض</string>
+  <string name="menu_calibrate">معايرة</string>
+  <string name="menu_calibrate_altitude">معايرة الارتفاع</string>
+  <string name="pressure">%.1f</string>
+  <string name="pressure_title">الضغط</string>
+</resources>

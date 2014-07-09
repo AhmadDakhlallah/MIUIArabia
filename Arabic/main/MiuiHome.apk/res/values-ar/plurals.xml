@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">إزالة \"%1$s\" و %2$d تطبيقات اخرى؟</item>
+        <item quantity="one">إزالة \"%s\"</item>
+        <item quantity="two">أزالة \"%s\" وتطبيق اخر؟</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">تم ازالة %1$ تطبيق</item>
+        <item quantity="one">تم إزالة التطبيق</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"تعذر إزالة \"%1$s\" و %2$d تطبيقات اخرى"</item>
+        <item quantity="one">"تعذر إزالة \"%s\""</item>
+        <item quantity="two">"تعذر إزالة \"%s\" وتطبيق اخر"</item>
+    </plurals>
+</resources>

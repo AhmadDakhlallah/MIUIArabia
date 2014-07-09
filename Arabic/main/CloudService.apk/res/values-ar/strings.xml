@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">مزامنة Xiaomi</string>
+  <string name="find_device">اعثر على الجهاز</string>
+  <string name="find_device_stop_noise">المس موافق لايقاف نغمة التحذير</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">استخدم Wi-Fi في الصور لتقليل تكاليف البيانات</string>
+  <string name="pref_title_sync_contacts_title">مزامنة جهات الاتصال</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">استخدم Wi-Fi في عرض الصور</string>
+  <string name="sub_sync_item_sms_summary">استخدم Wi-Fi في مزامنة الرسائل لتقليل تكاليف البيانات</string>
+  <string name="sub_sync_item_sms_title_wifi_only">استخدم Wi-Fi في مزامنة الرسائل</string>
+  <string name="sync_item_sms_summary">سيتم مزامنة الرسائل بشكل تلقائي</string>
+  <string name="sync_item_sms_title">مزامنة الرسائل</string>
+</resources>

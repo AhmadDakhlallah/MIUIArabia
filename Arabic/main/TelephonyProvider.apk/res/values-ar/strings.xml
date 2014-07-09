@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="default_cateogry_courier">مزود الحدمة</string>
+  <string name="default_cateogry_fraudulent">محتال</string>
+  <string name="default_cateogry_intermediary">وسيط</string>
+  <string name="default_cateogry_meal_delivery">توصيل الطعام</string>
+  <string name="default_cateogry_sales">المبيعات</string>
+  <string name="mms_sms_provider_label">المراسلات</string>
+</resources>
