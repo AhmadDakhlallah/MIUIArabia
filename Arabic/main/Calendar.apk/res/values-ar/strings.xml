@@ -124,7 +124,14 @@
   <string name="no_syncable_calendars">بلا تقاويم</string>
   <string name="no_title_label">(بلا عنوان)</string>
   <string name="not_synced">لم تتم مزامنته</string>
+  <string name="prefDefault_alerts_vibrateWhen">أبداً</string>
+  <string name="prefDefault_alerts_vibrate_false">أبداً</string>
+  <string name="prefDefault_alerts_vibrate_true">دوماً</string>
   <string name="prefDialogTitle_vibrateWhen">اهتزاز</string>
+  <string name="pref_title_alarm_remind">منبة</string>
+  <string name="pref_title_alert_remind">تنبيه منبثق</string>
+  <string name="pref_title_no_remind">بدون تنبية</string>
+  <string name="pref_title_notification_remind">تبية</string>
   <string name="preferences_about_title">حول</string>
   <string name="preferences_alerts_popup_title">التنبيه المنبثق</string>
   <string name="preferences_alerts_ringtone_title">اختيار نغمة الرنين</string>
@@ -182,6 +189,7 @@
   <string name="timezone_label">المنطقة الزمنية</string>
   <string name="today">اليوم</string>
   <string name="today_at_time_fmt">اليوم الساعة %s</string>
+  <string name="today_no_events">لا يوجد ارتباطات اليوم</string>
   <string name="tomorrow">غداً</string>
   <string name="tomorrow_at_time_fmt">غداً الساعة %s</string>
   <string name="view_event_calendar_label">التقويم:</string>

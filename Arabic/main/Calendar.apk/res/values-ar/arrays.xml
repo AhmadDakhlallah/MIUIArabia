@@ -37,8 +37,9 @@
         <item>الإثنين</item>
     </string-array>
     <string-array name="availability">
+        <item>مشغول</item>
         <item>متواجد</item>
-        <item>مؤقت</item>
+		<item>متردد</item>
     </string-array>
     <string-array name="visibility">
         <item>الإفتراضي</item>
@@ -87,5 +88,9 @@
         <item>دوماً</item>
         <item>فقط في الوضع الصامت</item>
         <item>أبداً</item>
+    </string-array>
+	<string-array name="widget_style_list">
+        <item>أسود شفاف</item>
+        <item>خلفية بيضاء</item>
     </string-array>
 </resources>
