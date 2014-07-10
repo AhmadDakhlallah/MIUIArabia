@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>خط صغير جداً</item>
+        <item>خط صغير جدا</item>
         <item>خط صغير</item>
         <item>خط عادي</item>
         <item>خط كبير</item>
-        <item>خط كبير جداً</item>
+        <item>خط كبير جدا</item>
     </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>الإنتقال لرسالة احدث عند حذف رسالة</item>
-        <item>الإنتقال لرسالة أقدم عند حذف رسالة</item>
-        <item>الإنتقال لصندوق الوارد عند حذف رسالة</item>
+    <string-array name="compose_modes">
+        <item>رد</item>
+        <item>رد للكل</item>
+        <item>تحويل</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>نجح</item>
+        <item>لا يتوفر اتصال.</item>
+        <item>تعذر تسجيل الدخول."</item>
+        <item>خطأ أمني.</item>
+        <item>تعذرت المزامنة.</item>
+        <item>خطأ داخلي</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>النظام</item>
+        <item>المستخدم بكثرة</item>
+        <item>جميع المجلدات</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>الأحدث</item>
+        <item>الأقدم</item>
+        <item>قائمة المحادثات</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>عرض المحادثات الاحدث بعد الحذف</item>
+        <item>عرض المحادثات الاقدم بعد الحذف</item>
+        <item>عرض المحادثات بعد الحذف</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>عرض الارشيف فقط</item>
+        <item>عرض المحذوف فقط</item>
+        <item>عرض الارشيف والمحذوف</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>عرض الارشيف فقط</item>
+        <item>عرض المحذوف فقط</item>
+        <item>عرض الارشيف والمحذوف</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>الافتراضي</item>
+        <item>التنسيق</item>
+        <item>الاسم</item>
+        <item>المرسل</item>
+        <item>لتاريخ</item>
     </string-array>
 </resources>

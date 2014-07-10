@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="activate">تفعيل</string>
-  <string name="activate_fail_notification_title">اعادة تفعيل خدمة مزامنة Xiaomi</string>
+  <string name="activate_fail_notification_title">اعادة تفعيل خدمة مزامنة شيومي</string>
   <string name="activating">جاري التفعيل...</string>
-  <string name="alarm_message_12_hour_formate">h:mm aa</string>
   <string name="alwaysUsePrompt">ضبط كافتراضي (لا تسأل مجددا)</string>
   <string name="android_lockscreen_glogin_instructions">لفك القفل، قم بتسجيل الدخول بحسابك</string>
   <string name="app_no_notification">بدون تنبية</string>
@@ -25,8 +24,8 @@
   <string name="contact_carrier_message">يرجى التواصل مع مشغل الشبكة اذا كان لديك اي اسئلة</string>
   <string name="days">ايام %d</string>
   <string name="delete">حذف</string>
-  <string name="device_hongmi">هاتف Hongmi</string>
-  <string name="device_xiaomi">هاتف Xiaomi</string>
+  <string name="device_hongmi">HongMi</string>
+  <string name="device_xiaomi">هاتف شيومي</string>
   <string name="emergency_call_string">مكالمة طوارئ</string>
   <string name="err_resource_leak">للأسف توقف %1$s لعدم توفر موارد كافية.</string>
   <string name="error_forbidden">حسابك يحتوي على بعض المشاكل. تم تعطيل المزامنة</string>
@@ -39,10 +38,10 @@
   <string name="experimental_validate_password">كلمة المرور</string>
   <string name="experimental_validate_progress">يتم التحقق...</string>
   <string name="experimental_validate_thanks">شكراً لك</string>
-  <string name="experimental_validate_username">هوية Xiaomi</string>
+  <string name="experimental_validate_username">هوية شيومي</string>
   <string name="experimental_validate_warning">كل اكتشاف جديد لك، يساعد النظام على التحسن اكثر!</string>
   <string name="find_device_check_sim">يتم تفقد بطاقة SIM…</string>
-  <string name="find_device_sim_change_instructions">تم اقفال جهازك. يرجى ادخال بطاقة SIM او كلمة مرور حساب Xiaomi الخاص بك</string>
+  <string name="find_device_sim_change_instructions">تم اقفال جهازك. يرجى ادخال بطاقة SIM او كلمة مرور حساب شيومي الخاص بك</string>
   <string name="find_device_sim_change_instructions_no_network">تم اقفل بطاقة SIM الخاصة بك. يرجى ادخال بطاقة SIM الاصلية</string>
   <string name="find_device_turn_off_flight_mode">قم بايقاف وضع الطيران</string>
   <string name="find_device_turn_off_flight_mode_instructions">تم اقفال جهازك. قم بايقاف وضع الطيران.</string>
@@ -51,7 +50,6 @@
   <string name="fm_record_smaple_prefix_miui">تسجيل الراديو</string>
   <string name="force_exit_message">تم اغلاق \"%1$s\"</string>
   <string name="forget_password_string">نسيت كلمة المرور</string>
-  <string name="format_time_in_12_hours">hh:mma</string>
   <string name="global_action_privacy_mode_dialog_message">في الوضع المحمي، سيتم اخفاء: المكالمات، الملاحظات، بيانات المعرض والرسائل والشاشة الرئيسية لن تدخل في وضع التحرير. تستطيع ضبط كلمة مرور لحماية الوضع المحمي في اعدادات التحكم بالوصول.</string>
   <string name="global_action_toggle_privacy_mode">الحارس</string>
   <string name="grant_permissions_account">السماح بوصول الحساب</string>
@@ -116,9 +114,9 @@
   <string name="perm_auto_backup">نسخ تلقائي</string>
   <string name="perm_data_update_dspt">مسموح بتعديل البيانات والعلامة المائية</string>
   <string name="perm_data_update_lab">تحديث البيانات</string>
-  <string name="perm_payment_dspt">السماح للتطبيق بالدفع عبر خدمة دفع Xiaomi</string>
-  <string name="perm_payment_lab">خدمة دفع Xiaomi</string>
-  <string name="perm_send_push_dspt">السماح بدفع الرسائل الى Xiaomi</string>
+  <string name="perm_payment_dspt">السماح للتطبيق بالدفع عبر خدمة دفع شيومي</string>
+  <string name="perm_payment_lab">خدمة دفع شيومي</string>
+  <string name="perm_send_push_dspt">السماح بدفع الرسائل الى شيومي</string>
   <string name="perm_send_push_lab">ارسل رسالة دفعية</string>
   <string name="perm_tigger_toggle_dspt">السماح للتطبيقات بتشغيل اختصار من شريط الحالة</string>
   <string name="perm_tigger_toggle_lab">شغل اختصار من شريط الحالة</string>
@@ -155,13 +153,13 @@
   <string name="shutdown_confirm_title">متأكد انك تريد إيقاف تشغيل الهاتف؟</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">بطاقة SIM الحالية غير مفعلة. لتفعيل الخدمة تحتاج الى رسالة دولية. هل تريد التفعيل الان؟</string>
-  <string name="sim_changed_reactivate_notice">بطاقة SIM الحالية غير مفعلة. سيتم ارسال رسالة لتفعيل خدمة مزامنة Xiaomi. التفعيل الان؟</string>
+  <string name="sim_changed_reactivate_notice">بطاقة SIM الحالية غير مفعلة. سيتم ارسال رسالة لتفعيل خدمة مزامنة شيومي. التفعيل الان؟</string>
   <string name="sim_in_airplane_mode">تعطيل وضع الطيران.</string>
   <string name="sim_locked">بطاقة SIM مقفلة</string>
   <string name="sim_not_ready">بطاقة SIM قيد الإستخدام. يرجى المحاولة لاحقاً.</string>
   <string name="sim_unavailable">بطاقة SIM غير متوفرة</string>
   <string name="speaker">السماعة</string>
-  <string name="sync_one_time_sync">Touch to sync (%1$s)</string>
+  <string name="sync_one_time_sync">المس لمزامنة (%1$s)</string>
   <string name="text_copied">تم نسخ النص للحافظة.</string>
   <string name="text_cut">تم قص النص</string>
   <string name="text_pastelist">الحافظة</string>
@@ -175,7 +173,7 @@
   <string name="unlockscreen_low_battery">قم بوصل الشاحن</string>
   <string name="unlockscreen_recharge_completed">إكتمل الشحن</string>
   <string name="unlockscreen_recharging_message">جار الشحن %d%%</string>
-  <string name="user_agreement1">ستقوم بإستخدام نظام و خدمات Xiaomi عبر الإنترنت. يرجى قراءه</string>
+  <string name="user_agreement1">ستقوم بإستخدام نظام و خدمات شيومي عبر الإنترنت. يرجى قراءه</string>
   <string name="user_agreement2">" اتفاقية المستخدم"</string>
   <string name="user_agreement3">" و "</string>
   <string name="user_agreement4">سياسة الخصوصية</string>
@@ -194,7 +192,7 @@
   <string name="volume_icon_description_notification">تنبيهات</string>
   <string name="volume_icon_description_ringer">نغمة الرنين</string>
   <string name="volume_ring_description">مستوى صوت التنبيهات ونغمة الرنين</string>
-  <string name="wake_alarm_message">Pause alarm. Remind in %s </string>
+  <string name="wake_alarm_message">ايقاف المنبة. التنبيه بعد %s </string>
   <string name="yellow_page_module_sms_sent">تم إرسال الرسالة</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">يتعذر ارسال الرسائل في وضع الضيف</string>
   <string name="yellow_page_sms_send_failed">تعذر ارسال الرسالة!</string>

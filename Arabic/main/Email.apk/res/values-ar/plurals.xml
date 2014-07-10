@@ -2,47 +2,83 @@
 <resources>
     <plurals name="move_messages">
         <item quantity="other">نقل الرسائل</item>
-        <item quantity="one">نقل رسالة</item>
+        <item quantity="one">نقل الرسالة</item>
     </plurals>
-    <plurals name="notification_new_one_account_fmt">
-        <item quantity="other">%1$d غير مقروء (%2$s)</item>
-        <item quantity="one">%1$d غير مقروء (%2$s)</item>
-        <item quantity="few">%1$d غير مقروء (%2$s)</item>
-    </plurals>
-    <plurals name="notification_new_multi_account_fmt">
-        <item quantity="other">in %d حساب</item>
-        <item quantity="few">in %d حساب</item>
-    </plurals>
-    <plurals name="number_of_accounts">
-        <item quantity="other">%1$d حساب</item>
-        <item quantity="one">%1$d حساب</item>
-    </plurals>
-    <plurals name="picker_combined_view_account_count">
-        <item quantity="other">%d حساب</item>
-        <item quantity="one">%d حساب</item>
-    </plurals>
-    <plurals name="message_view_selected_message_count">
+    <plurals name="num_selected">
         <item quantity="other">%d محدد</item>
-        <item quantity="one">%d محدد</item>
+        <item quantity="one">1 محدد</item>
     </plurals>
-    <plurals name="message_view_show_attachments_action">
-        <item quantity="other">مرفق %1$d</item>
-        <item quantity="one">مرفق %1$d</item>
+    <plurals name="move_conversation">
+        <item quantity="other">نقل %1$d محادثة</item>
+        <item quantity="one">نقل محادثة</item>
     </plurals>
-    <plurals name="message_delete_confirm">
-        <item quantity="other">حذف هذه الرسائل؟</item>
-        <item quantity="one">حذف هذه الرسالة؟</item>
+    <plurals name="draft">
+        <item quantity="other">المسودات</item>
+        <item quantity="one">المسودة</item>
     </plurals>
-    <plurals name="message_deleted_toast">
-        <item quantity="other">تم حذف الرسائل</item>
-        <item quantity="one">تم حذف الرسالة</item>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">حذف %1$d محادثة؟</item>
+        <item quantity="one">حذف المحادثة؟</item>
     </plurals>
-    <plurals name="message_moved_toast">
-        <item quantity="other">تم نقل %1$d رسالة الى %2$s</item>
-        <item quantity="one">تم نقل %1$d رسالة الى %2$s</item>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">هذه المحادثات تحتوي على عناصر مدمجة. متأكد من حذفهن؟</item>
+        <item quantity="one">هذه المحادثة تحتوي على عناصر مدمجة. متأكد من حذفها؟</item>
     </plurals>
-    <plurals name="gal_completed_fmt">
-        <item quantity="other">%1$d نتيجة من %2$s</item>
-        <item quantity="one">%1$d نتيجة من %2$s</item>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">أرشفة %1$d محادثة؟</item>
+        <item quantity="one">أرشفة المحادثة؟</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">الغاء المسودات من هذه الـ %1$d محادثات؟</item>
+        <item quantity="one">الغاء المسودة من هذه المحادثة؟</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">تم ازالة تعيين %1$d محادثة بنجمة.</item>
+        <item quantity="one">تم ازالة تعيين %1$d محادثة بنجمة.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">تم اسكات &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">تم اسكات &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">تم تعيين&amp;lt;b>%1$d&amp;lt;/b> كمزعج.</item>
+        <item quantity="one">تم تعيين&amp;lt;b>%1$d&amp;lt;/b> كمزعج.</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">تم الغاء تعيين&amp;lt;b>%1$d&amp;lt;/b> كمزعج.</item>
+        <item quantity="one">تم الغاء تعيين&amp;lt;b>%1$d&amp;lt;/b> كمزعج.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">تم الغاء تعيين&amp;lt;b>%1$d&amp;lt;/b> كمهمة.</item>
+        <item quantity="one">تم الغاء تعيين&amp;lt;b>%1$d&amp;lt;/b> كمهمة.</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">تم تعيين &amp;lt;b>%1$d&amp;lt;/b> كرسائل اعلانية.</item>
+        <item quantity="one">تم تعيين &amp;lt;b>%1$d&amp;lt;/b>. كرسائل اعلانية</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">تم أرشفة &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">تم أرشفة &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">تم حذف &amp;lt;b>%1$d&amp;lt;/b>.</item>
+        <item quantity="one">تم حذف &amp;lt;b>%1$d&amp;lt;/b>.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">تغيير المجلدات.</item>
+        <item quantity="one">نغيير المجلد</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d رسالة جديدة. عرض.</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d رسالة قديمة</item>
+    </plurals>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d غير مقروء</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">سيتم حذف %1$d رسالة بشكل دائم.</item>
+        <item quantity="one">سيتم حذف %1$d رسالة بشكل دائم.</item>
     </plurals>
 </resources>
