@@ -10,7 +10,7 @@
   <string name="dialog_calibrat_altitude">معايرة الارتفاع عبر الانترنت</string>
   <string name="dialog_title_no_network">يرجى تفعيل اتصال Wi-Fi</string>
   <string name="getting_location">في انتظار الموقع...</string>
-  <string name="guide_toast">"There may be magnetic field interference, please calibrate the compass using the following gesture."</string>
+  <string name="guide_toast">قد يكون هناك تشويش مغناطيسي. يرجة تحريك الهاتف كما في الشكل للمعايرة.</string>
   <string name="latitude">خط الطول</string>
   <string name="longitude">خط العرض</string>
   <string name="menu_calibrate">معايرة</string>

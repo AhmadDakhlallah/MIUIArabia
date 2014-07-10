@@ -20,24 +20,23 @@
   <string name="Dashboard_Perm_HIPS_Switch">مراقب الاذونات</string>
   <string name="Dashboard_Perm_Header">مراقبة %1$d تطبيق</string>
   <string name="Dashboard_Perm_Header_Disabled">تم تعطيل اذونات المراقبة</string>
-  <string name="Dashboard_Perm_SU">إدارة أذونات ROOT</string>
-  <string name="Dashboard_Perm_SU_Desc">مراقبة %1$d تطبيق للحصول على إذن ROOT</string>
-  <string name="Dashboard_Perm_SU_Disabled">تم تعطيل اذونات ROOT</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable">اذونات ROOT غير متوفرة في النسخ الثابتة</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Grant ROOT permission to 3rd-party apps may cause system instability, even loss of personal data, system or hardware damage.
+  <string name="Dashboard_Perm_SU">إدارة أذونات روت</string>
+  <string name="Dashboard_Perm_SU_Desc">مراقبة %1$d تطبيق للحصول على إذن روت</string>
+  <string name="Dashboard_Perm_SU_Disabled">تم تعطيل اذونات روت</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">اذونات روت غير متوفرة في النسخ الثابتة</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"منح تطبيقات الطرف الثالث اذونات روت قد يتسبب في عدم استقرار النظام او حتى فقدان للبيانات واختراق للخصوصية او حتى تلف في الهاتف.
 
-Please switch to MIUI development version to enable ROOT permission."</string>
+برجى التحويل لنسخة المطورين لاستخدام اذونات روت."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">تنزيل MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
-  <string name="Dashboard_Perm_SU_Switch">اذونات ROOT</string>
-  <string name="Dashboard_Su_Enable_Content">"Enabling it will allow apps to request ROOT permission.
-Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure to enable it?"</string>
-  <string name="Dashboard_Su_Enable_Title">اذونات ROOT</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://miuiarabia.com/download.htm</string>
+  <string name="Dashboard_Perm_SU_Switch">اذونات روت</string>
+  <string name="Dashboard_Su_Enable_Content">تفعيلة سيسمح للتطبيقات بطل اذونات روت. ملاحظة: التطبيقات التي تحصل على هذه الاذونات قد تسبب عدم استقرار النظام، ضياع في البيانات، اختراق الخصوصية، او حتى اتلاف الهاتف. متأكد من تفعيلة؟</string>
+  <string name="Dashboard_Su_Enable_Title">اذونات روت</string>
   <string name="Generic_Canceling">جاري الالغاء...</string>
   <string name="Generic_Check">تحقق</string>
   <string name="Generic_Clean">تنظيف</string>
   <string name="Generic_Configuration">إعدادات</string>
-  <string name="Generic_Copyright">بدعم من Xiaomi</string>
+  <string name="Generic_Copyright">بدعم من شيومي</string>
   <string name="Generic_Disable">تعطيل</string>
   <string name="Generic_Enable">تفعيل</string>
   <string name="Generic_Good">جيد</string>
@@ -144,11 +143,11 @@ Note: Apps with the permission may cause system instability, even loss of person
   <string name="HIPS_Perm_PhoneID_Number">الحصول على رقم هاتفك</string>
   <string name="HIPS_Perm_Picture">take picture</string>
   <string name="HIPS_Perm_PromptAll">السؤال عن الكل</string>
-  <string name="HIPS_Perm_ROOT">ROOT</string>
-  <string name="HIPS_Perm_ROOT_Desc">طلب إذن ROOT</string>
+  <string name="HIPS_Perm_ROOT">روت</string>
+  <string name="HIPS_Perm_ROOT_Desc">طلب إذن روت</string>
   <string name="HIPS_Perm_ROOT_Desc_Stable">غير متوفر في ميوي الثابتة</string>
-  <string name="HIPS_Perm_ROOT_Hint">%1$s تطبيق لدية الاذن للحصول على اذونات ROOT</string>
-  <string name="HIPS_Perm_ROOT_Title">الحصول على إذن ROOT</string>
+  <string name="HIPS_Perm_ROOT_Hint">%1$s تطبيق لدية الاذن للحصول على اذونات روت</string>
+  <string name="HIPS_Perm_ROOT_Title">الحصول على إذن روت</string>
   <string name="HIPS_Perm_RecordAudio">تسجيل الصوت</string>
   <string name="HIPS_Perm_RecordVideo">تسجيل الفيديو</string>
   <string name="HIPS_Perm_Recorder">الكاميرا والمايكروفون</string>
@@ -156,7 +155,7 @@ Note: Apps with the permission may cause system instability, even loss of person
   <string name="HIPS_Perm_Recorder_AudioVideo">تسجيل الصوت و الفيديو</string>
   <string name="HIPS_Perm_Recorder_Camera">التصوير</string>
   <string name="HIPS_Perm_Recorder_Desc">التقاط الصور و تسجيل الفيديو</string>
-  <string name="HIPS_Perm_Recorder_Hint">%1$s apps are allowed to take picture and record video</string>
+  <string name="HIPS_Perm_Recorder_Hint">%1$s تطبيق يستطيع التقاط الصور والفيديو</string>
   <string name="HIPS_Perm_Recorder_Video">تسجيل الفيديو</string>
   <string name="HIPS_Perm_Recorder_VoiceCall">تسجيل المكالمات</string>
   <string name="HIPS_Perm_RejectAll">منع الكل</string>
@@ -196,12 +195,12 @@ Note: Apps with the permission may cause system instability, even loss of person
   <string name="HIPS_SecurityPrompt_Caption">تحذيرامني</string>
   <string name="HIPS_SecurityPrompt_Next">التالي</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">تحذير مهم</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">السماح لـ %1$s بالحصول على اذونات ROOT?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step2">اذونات ROOT قد تسبب عدم استقرار النظام</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">السماح لـ %1$s بالحصول على اذونات روت?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">اذونات روت قد تسبب عدم استقرار النظام</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">قد تتعرض بياناتك وحساباتك للخطر</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">ايضا قد تتسبب في عطل دائم في الجهاز</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">استخدمها بحذر!</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">متأكد من السماح لـ %1$s بالحصول على اذونات ROOT?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">متأكد من السماح لـ %1$s بالحصول على اذونات روت?</string>
   <string name="HIPS_SecurityPrompt_Reject">رفض (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">تذكر اختاري</string>
   <string name="HIPS_SecurityPrompt_Title">يحاول %1$s الوصول الى %2$s</string>
@@ -213,14 +212,14 @@ Note: Apps with the permission may cause system instability, even loss of person
   <string name="Privacy_App_Log">السجلات</string>
   <string name="Privacy_App_Manage">تفاصيل</string>
   <string name="Privacy_App_Trust">انا اثق في هذا التطبيق</string>
-  <string name="Privacy_App_TrustDialog_Content">MIUI will not ask your for confirmation of any security and privacy related operations from this App.</string>
+  <string name="Privacy_App_TrustDialog_Content">لن تسألك ميوي تأكيد اي عمليه تتعلق بالخصوصية او الامان صادره من هذا التطبيق.</string>
   <string name="Privacy_App_TrustDialog_Title">الوثوق في هذا التطبيق</string>
   <string name="Privacy_App_Trust_Summary_Off">لن يتم مراقبة هذا التطبيق</string>
   <string name="Privacy_App_Trust_Summary_On">سيتم الوثوق في هذا التطبيق</string>
   <string name="Privacy_App_Uninstall">إزالة</string>
   <string name="Privacy_Perm_Count">المسموح: %1$d الممنوع: %2$d</string>
-  <string name="Su_Enable_Dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager.</string>
-  <string name="Su_Unavailable">ROOT Permission is disabled in MIUI stable versions. Please install MIUI BETA version to activate ROOT permissions.</string>
+  <string name="Su_Enable_Dialog">يحاول %1$s الحصول على اذونات روت المعطله بشكل افتراضي للتأكد من امن وسلامه النظام. اذا احتجت لهن، يمكنك تفعيلهن من تطبيق الاذونات.</string>
+  <string name="Su_Unavailable">اذونات روت معطله على النسخ الثابته من ميوي. لتفعيل الاذونات يجب تنزيل نسخة المطورين.</string>
   <string name="SysOpt_Boost_AutoStart">اذونات البدء التلقائي</string>
   <string name="SysOpt_Boost_AutoStart_Group">البدء التلقائي</string>
   <string name="SysOpt_Boost_Boot">البدء</string>
