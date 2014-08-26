@@ -2,21 +2,21 @@
 <resources>
     <string name="app_name">إستخدام البيانات</string>
     <string name="list_empty_text">فارغ</string>
-    <string name="main_button_normal_traffic">Peak</string>
+    <string name="main_button_normal_traffic">الحد الاقصى</string>
     <string name="main_button_idel_traffic">Off-peak</string>
-    <string name="main_toolbar_firewall">Restrict</string>
-    <string name="main_toolbar_statistic">Stats</string>
-    <string name="main_toolbar_purchase">Top-up</string>
+    <string name="main_toolbar_firewall">تحديد</string>
+    <string name="main_toolbar_statistic">الحالة</string>
+    <string name="main_toolbar_purchase">اشحن الرصيد</string>
     <string name="main_button_usage_adjust">تعيين إستخدام بيانات الهاتف</string>
     <string name="main_button_usage_adjusting">تغيير…</string>
     <string name="main_button_usage_adjust_manual">تعيين إستخدام بيانات الهاتف</string>
     <string name="main_button_usage_package_setting">تعيين إستخدام بيانات الهاتف</string>
     <string name="main_traffic_used_text">"%s
-Used"</string>
+مستخدم"</string>
     <string name="main_traffic_remian_text">"%s
-Remaining"</string>
-    <string name="main_traffic_overlimit_text">%s over</string>
-    <string name="main_traffic_used_only">Used: %s</string>
+متبقي"</string>
+    <string name="main_traffic_overlimit_text">%s المتخطى</string>
+    <string name="main_traffic_used_only">المستخدم: %s</string>
     <string name="main_alert_message_no_mobile_package">"لم يتم تعيين حد لبيانات الهاتف"</string>
     <string name="main_alert_message_no_imsi">لا يوجد شريحة</string>
     <string name="firewall_activity_lable">تقييد استخدام البيانات من قبل التطبيق</string>
@@ -27,7 +27,7 @@ Remaining"</string>
     <string name="firewall_fragment_tab_title_sys">التطبيقات</string>
     <string name="firewall_fragment_sys_listempty">فارغ</string>
     <string name="firewall_fragment_nonesys_listempty">فارغ</string>
-    <string name="firewall_service_network_blocked">%1$s has been restricted from using %2$s networks</string>
+    <string name="firewall_service_network_blocked">تم منع %1$s  من الوصول الى %2$s شبكة</string>
     <string name="usage_sorted_activity_lable">إستخدام البيانات</string>
     <string name="usage_sorted_loading_text">تحميل…</string>
     <string name="usage_sorted_empty_text">فارغ</string>
@@ -38,23 +38,23 @@ Remaining"</string>
     <string name="app_detail">تفاصيل</string>
     <string name="app_version">الإصدار</string>
     <string name="app_mobile">البيانات</string>
-    <string name="app_wifi">واي فاي</string>
+    <string name="app_wifi">Wi-Fi</string>
     <string name="traffic_none">لاشيء</string>
     <string name="sorted_dialog_title">ترتيب حسب</string>
     <string name="cancel_button">إالغاء</string>
     <string name="ok_button">موافق</string>
     <string name="permit_running_network">السماح لبيانات الخلفية</string>
     <string name="network_control">عرض إعدادات التطبيق</string>
-    <string name="foreground_traffic">Foreground %s</string>
-    <string name="background_traffic">Background %s</string>
+    <string name="foreground_traffic">في المقدمة %s</string>
+    <string name="background_traffic">في الخلفية %s</string>
     <string name="stop_app_button">إيقاف</string>
     <string name="detail_app_button">تفاصيل</string>
     <string name="force_stop_dlg_title">تقييد بيانات الخلفية</string>
     <string name="force_stop_dlg_text">"إذا قمت بتقييد بيانات الخلفية، فإن بعض التطبيقات والخدمات لن تعمل إلا إذا كنت متصلا بشبكة واي فاي."</string>
     <string name="pref_about_traffic_title">إعدادات استخدام البيانات</string>
-    <string name="pref_package_traffic_normal">Peak: %s</string>
-    <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
-    <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
+    <string name="pref_package_traffic_normal">الحد الاقصى: %s</string>
+    <string name="pref_package_traffic_overlay">%1$s | اضافي: %2$s</string>
+    <string name="pref_package_traffic_leisure">%1$s | أكثر من الحد الأقصى: %2$s</string>
     <string name="pref_package_traffic_settings">حد بيانات الهاتف</string>
     <string name="pref_adjust_traffic_data">تعيين إستخدام البيانات</string>
     <string name="pref_app_traffic_managent">تقييد استخدام البيانات من قبل التطبيق</string>
@@ -146,7 +146,7 @@ Remaining"</string>
     <string name="data_usage_warning_body">إلمس لعرض تفاصيل إستخدام البيانات.</string>
     <string name="data_usage_mobile_limit_title">تم تعطيل بيانات الهاتف</string>
     <string name="data_usage_limit_body">إلمس لتمكين بيانات الهاتف.</string>
-    <string name="data_usage_disabled_dialog">"You've reached your data usage limit. 
+    <string name="data_usage_disabled_dialog">"لقد بلغت الحد الاقصى لاستهلاك البيانات. 
 
 Usage in excess of your carrier plan's data limits can result in steep overage charges."</string>
     <string name="data_usage_disabled_dialog_enable">تمكين البيانات</string>
@@ -160,12 +160,12 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
     <string name="data_usage_correction_timeout_body">إلمس للتحديث يدويا.</string>
     <string name="data_usage_no_total_package_title">إستخدام البيانات</string>
     <string name="data_usage_no_total_package_body">هل تريد وضع حد لإستخدام البيانات?</string>
-    <string name="data_usage_no_total_package_body_dual">Do you want to set a data usage limit for %s?</string>
+    <string name="data_usage_no_total_package_body_dual">هل تريد تعيين حد لاستهلاك البيانات لـ %s؟</string>
     <string name="network_assistant_upgraded_title">إكتمل التحديث</string>
     <string name="network_assistant_upgraded_body">إضغط لتقييد إستخدام البيانات.</string>
     <string name="lock_screen_traffic_warn_title">تحذير إستخدام البيانات</string>
-    <string name="notification_title">%1$s-%2$s: about %3$s used</string>
-    <string name="notification_content_title">Used %1$s while locked</string>
+    <string name="notification_title">%1$s-%2$s: مستخدم %3$s تقريبا</string>
+    <string name="notification_content_title">تم استخدام %1$s خلال القفل</string>
     <string name="free_time_traffic_title">Enter off-peak data limit</string>
     <string name="free_time_traffic_hint">Enter off-peak data limit</string>
     <string name="traffic_protection_label">تحذير إستخدام البيانات</string>
@@ -179,12 +179,4 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
     <string name="traffic_correction_start_correction_failed">فشل الطلب، يرجى التحقق من إعدادات المشغل</string>
     <string name="traffic_correction_success">إستخدام البيانات محدث</string>
     <string name="traffic_correction_failed">"لا يمكن الحصول على معلومات استخدام البيانات"</string>
-    <string name="operator_name_cmcc">China Mobile</string>
-    <string name="operator_name_unicom">China Unicom</string>
-    <string name="operator_name_telcom">China Telecom</string>
-    <string name="operator_number_cmcc">10086</string>
-    <string name="operator_number_unicom">10010</string>
-    <string name="operator_number_telcom">10000</string>
-    <string name="dual_setting_simcard1">SIM 1</string>
-    <string name="dual_setting_simcard2">SIM 2</string>
 </resources>

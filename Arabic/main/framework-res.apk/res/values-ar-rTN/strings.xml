@@ -1020,8 +1020,7 @@
   <string name="no_matches">لا يوجد متطابقات</string>
   <string name="find_on_page">بحث في الصفحة</string>
   <string name="action_mode_done">تم</string>
-    <string name="progress_unmounting">فصل التخزين الداخلي…</string>
-    <string name="progress_erasing_internal">مسح التخزين الداخلي…</string>
+  <string name="progress_erasing_internal">مسح التخزين الداخلي…</string>
   <string name="progress_unmounting">جارٍ إلغاء تحميل وحدة تخزين USB...</string>
   <string name="progress_erasing">يتم مسح وحدة تخزين USB...</string>
   <string name="format_error">تعذر مسح وحدة تخزين USB.</string>

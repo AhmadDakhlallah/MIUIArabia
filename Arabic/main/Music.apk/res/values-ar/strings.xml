@@ -5,7 +5,6 @@
   <string name="add_to_favorite">اضف الى المفضلة</string>
   <string name="add_to_playlist">إضافة إلى قائمة التشغيل</string>
   <string name="add_tracks">اضف اغاني</string>
-  <string name="album_artist_format" formatted="false">%s , %s</string>
   <string name="album_display_settings">عرض صورة الالبوم</string>
   <string name="album_display_summary">عرض صورة الالبوم في واجهة المشغل</string>
   <string name="album_download">تنزيل صورة الالبوم</string>
@@ -33,9 +32,6 @@
   <string name="cancel">إلغاء</string>
   <string name="cancel_sleep_mode">تم ايقاف عداد الايقاف</string>
   <string name="cancle_warining">تم ايقاف وضع الايقاف</string>
-  <string name="channel">FM</string>
-  <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
-  <string name="channel_postfix">MHZ</string>
   <string name="click_to_shuffle">المس لخلط الكل</string>
   <string name="complete">اكتمل</string>
   <string name="confirm">تأكيد</string>
@@ -67,10 +63,7 @@
   <string name="download_batch_start">بدء تنزيل الكل</string>
   <string name="download_lyric_settings">تنزيل كلمات الاغنية بشكل تلقائي</string>
   <string name="download_lyric_summary">تنزيل كلمات الاغنية لا يتسبب في استخدام عالي للبيانات، تستطيع ايقافة للحفاظ على القليل من البيانات.</string>
-  <string name="download_processing">جاري التنزيل</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="download_processing">جاري التنزيل</string>>
   <string name="empty_edit_hint">معلومات الاغنية غير متوفرة</string>
   <string name="emptyplaylist">قائمة التشغيل المحددة فارغة.</string>
   <string name="enter_sleep_mode">الدخول في وضع الايقاف</string>
@@ -80,7 +73,6 @@
   <string name="equalizer_save_success">تم حفظ ضبط المعادل</string>
   <string name="fade_effect_settings">خيارات التلاشي</string>
   <string name="fade_effect_summary">تفعيل التلاشي بين الاغاني</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="file_not_found">الملف غير موجود</string>
   <string name="filter_by_duration">التصفية حسب المدة</string>
   <string name="filter_by_duration_format">%2$dد %5$2dث</string>
@@ -158,9 +150,8 @@
   <string name="no_effect">بدون تأثير</string>
   <string name="no_song_downloaded">لا يمكن تنزيل الاغنية</string>
   <string name="not_selected">يرجى تحديد اغنية</string>
-  <string name="notification_artist_album">"%2$s %1$s"</string>
   <string name="online_search_hint">البحث عن موسيقى على الانترنت</string>
-  <string name="online_title">Online</string>
+  <string name="online_title">اونلاين</string>
   <string name="other_settings">اخرى</string>
   <string name="overwrite_confirm">استبدال</string>
   <string name="play_all">تشغيل الكل</string>
@@ -181,8 +172,7 @@
   <string name="playlist_renamed_message">تم اعادة تسمية القائمة.</string>
   <string name="playlists_title">قوائم التشغيل</string>
   <string name="powered_by">بدعم من</string>
-  <string name="project_device">Xiaomi MiBox</string>
-  <string name="project_device_mobile">Mobile device</string>
+  <string name="project_device_mobile">جهاز محمول</string>
   <string name="queue">قائمة التشغيل الخالية</string>
   <string name="quit_player">خروج</string>
   <string name="quit_warining">سيتم ايقاف المشغل خلال %d دقيقة</string>
@@ -237,9 +227,7 @@
   <string name="start_to_download_album">تنزيل صورة الالبوم لمكتبة الموسيقى</string>
   <string name="start_to_download_avatar">تنزيل صورة الفنان لمكتبة الموسيقى</string>
   <string name="streamloadingtext">متصل مع %s</string>
-  <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">اغنية</string>
-  <string name="track_num_format">(%s)</string>
   <string name="tracks_title">جميع الاغاني</string>
   <string name="unknown_album_name">البوم غير معروف</string>
   <string name="unknown_artist_name">فنان غير معروف</string>

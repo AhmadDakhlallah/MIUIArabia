@@ -782,7 +782,8 @@
   <string name="resource_detail">التفاصيل</string>
   <string name="resource_detail_comment_title">التعليقات</string>
   <string name="resource_detail_jump_to_online_title">على الانترنت</string>
-  <string name="resource_detail_jump_to_same_author_title">نفس الناشر</string>سمات اخرى من تصميم %1$s</string>
+  <string name="resource_detail_jump_to_same_author_title">نفس الناشر</string>
+  <string name="resource_detail_recommend_desiner_other_themes">سمات اخرى من تصميم %1$s</string>
   <string name="resource_detail_recommend_desiner_themes">%1$s سمة</string>
   <string name="resource_detail_recommend_other_themes">المستخدمين اعجبهم ايضاً</string>
   <string name="resource_detail_update_log_title">تحديث</string>
