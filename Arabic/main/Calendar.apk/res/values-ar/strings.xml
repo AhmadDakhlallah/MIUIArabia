@@ -124,9 +124,6 @@
   <string name="no_syncable_calendars">بلا تقاويم</string>
   <string name="no_title_label">(بلا عنوان)</string>
   <string name="not_synced">لم تتم مزامنته</string>
-  <string name="prefDefault_alerts_vibrateWhen">أبداً</string>
-  <string name="prefDefault_alerts_vibrate_false">أبداً</string>
-  <string name="prefDefault_alerts_vibrate_true">دوماً</string>
   <string name="prefDialogTitle_vibrateWhen">اهتزاز</string>
   <string name="pref_title_alarm_remind">منبة</string>
   <string name="pref_title_alert_remind">تنبيه منبثق</string>

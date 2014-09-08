@@ -14,7 +14,6 @@
   <string name="abc_searchview_description_voice">بحث صوتي</string>
   <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">إنك تستخدم اسم المستخدم هذا للحساب \"%s\" فعلاً.</string>
   <string name="account_duplicate_dlg_title">حساب متكرر</string>
   <string name="account_folder_list_summary_drafts">المسودات</string>
@@ -243,7 +242,6 @@
   <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
   <string name="collapse_recipient_details">Collapse recipient details</string>
   <string name="compose">إنشاء</string>
-  <string name="compose_help_context">إنشاء</string>
   <string name="confirm">تأكيد</string>
   <string name="confirm_discard_text">تجاهل هذه الرسالة?</string>
   <string name="confirm_response">إرسال الإستجابة…</string>
@@ -270,7 +268,6 @@
   <string name="contextmenu_send_mail">إرسال إيميل</string>
   <string name="contextmenu_sharelink">مشاركة الرابط</string>
   <string name="contextmenu_sms_dot">رسالة قصيرة…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Moved to %1$s</string>
   <string name="conversation_photo_welcome_text">لمس صورة المرسل لتحديد تلك المحادثة.</string>
   <string name="copy_email">نسخة عنوان البريد الإلكتروني</string>
@@ -314,7 +311,6 @@
   <string name="drawer_open">Open navigation drawer</string>
   <string name="edit_quick_response_dialog">إستجابة سريعة</string>
   <string name="email_package_name">com.android.email</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_email_tip">لا يمكن إرسال بريد فارغ</string>
   <string name="empty_spam">البريد المزعج فارغ</string>
   <string name="empty_spam_dialog_title">البريد المزعج فارغ?</string>
@@ -345,7 +341,6 @@
   <string name="forward_attribution_no_headers">---------- Forwarded message ----------</string>
   <string name="forward_download_failed_ticker">"لا يمكن إعادة توجية واحد أو أكثر من المرفقات."</string>
   <string name="forward_download_failed_title">المرفق لم يتم إعادة توجيهه</string>
-  <string name="forward_subject_label">إعادة توجية:</string>
   <string name="from">من</string>
   <string name="from_heading">"من: "</string>
   <string name="general_preference_confirm_delete_label">تأكيد قبل الحذف</string>
@@ -395,14 +390,6 @@
   <string name="mailbox_name_display_starred">بنجمة</string>
   <string name="mailbox_name_display_trash">مهملات</string>
   <string name="mailbox_name_display_unread">غير مقروء</string>
-  <string name="mailbox_name_server_all_unread">غير مقروء</string>
-  <string name="mailbox_name_server_drafts">المسودات</string>
-  <string name="mailbox_name_server_inbox">الوارد</string>
-  <string name="mailbox_name_server_junk">نفاية</string>
-  <string name="mailbox_name_server_outbox">الصادر</string>
-  <string name="mailbox_name_server_sent">المرسل</string>
-  <string name="mailbox_name_server_starred">بنجمة</string>
-  <string name="mailbox_name_server_trash">مهملات</string>
   <string name="mailbox_settings_activity_title">خيارات المزامنة</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Sync options (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">أيام من مزامنة البريد</string>
@@ -468,7 +455,6 @@ CC: %4$s
   <string name="message_invite_title">دعوة</string>
   <string name="message_saved">تم حفظ الرسالة كمسودة.</string>
   <string name="message_view_attachment_background_load">سيتم تحميل واحد أو أكثر من المرفقات في الرسالة المعاد توجيهها قبل إرسالها.</string>
-  <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_total">%1$d attachments in total</string>
   <string name="more_info_attachment">معلومات</string>
   <string name="move_to_selection_dialog_title">انتقل إلى مجلد آخر</string>
@@ -590,14 +576,9 @@ CC: %4$s
   <string name="reply">رد</string>
   <string name="reply_all">رد الكل</string>
   <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
-  <string name="reply_subject_label">Re:</string>
   <string name="replyto_heading">"Reply-to: "</string>
   <string name="report">تقرير</string>
   <string name="report_phishing">Report phishing</string>
-  <string name="report_rendering_improvement">تبدو جيدة</string>
-  <string name="report_rendering_improvement_desc">هذه الرسالة تبدو جيدة.</string>
-  <string name="report_rendering_problem">تبدو سيئة</string>
-  <string name="report_rendering_problem_desc">هذه الرسالة تبدو سيئة.</string>
   <string name="report_spam">تقرير البريد المزعج</string>
   <string name="require_manual_sync_message">تم تعطيل المزامنة الخلفية لهذا الحساب أثناء التجوال.</string>
   <string name="respond_inline">Respond inline</string>
@@ -695,11 +676,9 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="wait_for_sync_body">سيظهر بريدك الإلكتروني قريبا.</string>
   <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
   <string name="wait_for_sync_title">انتظار المزامنة</string>
-  <string name="wait_help_context">انتظار</string>
   <string name="widget_all_mail">كل البريد</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">أخر</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wrong_password">كلمة مرور خاطئة!</string>
   <string name="yes">نعم</string>
   <string name="zip_viewer_no_file">لا يوجد ملفات!</string>
